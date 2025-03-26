@@ -23,6 +23,7 @@ Re-wrote the entire malware in python.
   * customizable messages
   * "stealth version" with no visual elements
   * "evil version" which always runs on system start
+
 Let me know if you have any other suggestions!
 
 ```
